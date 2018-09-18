@@ -1,0 +1,9 @@
+int32 w
+int32 n
+float64 a 
+float64 b
+float64 alpha 
+int32 epsi
+---
+
+bool flag
